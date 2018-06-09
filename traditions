@@ -1,0 +1,25 @@
+<html>
+ <body>
+ <caption>Japanese Traditions List</caption>
+
+<p> 1. New Year's
+<p> 2. Girl's Day and Boy's Day
+<p> 3. Christmas
+<p> 4. Bonenkai Parties ("Forget the year" parties for the end of the year)
+
+
+  h1 { 
+  Color: orange ;
+}
+
+p {
+color: blue;
+ }
+
+body {
+    background-color: red;
+  }    
+
+<a href="index.html">Return to Homepage</a>
+ </body>
+</html>
