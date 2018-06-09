@@ -1,0 +1,46 @@
+<html>
+ <body>
+<table width='100%' border=1px cellspacing=0>
+ <caption>Laryn's Anime List</caption>
+ 
+ <tr>
+     <th>Number</th>
+     <th>Anime Name</th>
+     <th>Reason</th>
+ </tr>
+ 
+ <tr>
+     <td>1</td>
+     <td>Suki ta inaiyo</td>
+     <td>Illustrates how the main character gains friends!</td>
+ </tr>
+ 
+ <tr>
+     <td>2</td>
+     <td>Snow White with the Red Hair</td>
+     <td>The main character gets to work with herbal medicine in Zen's castle!</td>
+ </tr>
+ 
+ <tr>
+     <td>3</td>
+     <td>Princess Kaguya</td>
+     <td>She gets to learn how to plat the koto!</td>
+ </tr>
+
+ </table>
+
+  h1 { 
+  Color: orange ;
+}
+
+p {
+color: blue;
+ }
+
+body {
+    background-color: red;
+  }    
+
+<a href="index.html">Return to Homepage</a>
+ </body>
+</html>
