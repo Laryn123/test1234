@@ -1,5 +1,34 @@
+<html>
+<head> <center>
 <title> <b> Layrn's World </b> </title>
-<h1> <i> Japanese Culture </i> </h1>
-<h2> Food </h2>
-<h2> Traditions </h2>
-<h2> Anime </h2>
+<link rel="stylesheet" href="mycss.css" type="text/css">
+  </center> </head> 
+<body>
+<h1>Japanese Culture!</h1>
+<p> <i>Hello! Welcome to my website! My website shows you a little bit about my world. </i> </p>
+<hr>
+<h2>Traditions</h2> 
+
+<p> There are many different traditions in the Japanese culture! Please click the link to see a list of them.
+<a href="traditions.html">Traditions List</a></p>
+  
+<h3>Food</h3>
+   
+<p> There are many different foods that are associated with these Japanese traditions. Click the link for a list of different wonderful foods!
+<a href="food.html">Food List</a></p>
+    
+<hr>
+
+<h2> <b>Anime!!</b> </h2>
+
+  <p> I like Anime! Anime is a pretty big part of the Japanese World! Here are some pictures from ones that I enjoy! The art is very beautiful
+  <a href="flowers.jpg">
+  <img width=20% Height=20% Length=20% src="flowers.jpg"> 
+  </a> 
+  
+  <p> Here is a link for a list of Anime series that I am currently interested in!
+  <a href="anime.html">Anime List</a></p>
+  
+<hr>  
+</body>
+</html>
