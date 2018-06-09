@@ -1,4 +1,27 @@
 <html>
+<body>
 <title> <b> List of Foods!! </b></title>
 
+<hr>
+1. Soba noodles
+2. Hot Pot
+
+
+
+
+
+  h1 { 
+  Color: orange ;
+}
+
+p {
+color: blue;
+ }
+
+body {
+    background-color: red;
+  }    
+
+<a href="index.html">Return to Homepage</a>
+</body>
 </html>
